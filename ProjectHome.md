@@ -1,0 +1,2 @@
+Its a Bash script based on my research paper on exploit-db.It uses the technique of launching shell-code directly on the target machine using syringe.exe utility. I suggest you to read the paper for more info.
+http://www.exploit-db.com/wp-content/themes/exploit/docs/20420.pdf
